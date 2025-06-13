@@ -12,5 +12,5 @@ Minimal embeddable 360° product viewer for Bynder Embedded Assets.
 ## CDN Usage
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/yourusername/bynder-embed-spinset@v1.0.0/versions/v1.0.0/bynder-embed-spinset.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/mkdegucena/bynder-embed-spinset@v1.0.0/dist/bynder-embed-spinset.js"></script>
 ```
